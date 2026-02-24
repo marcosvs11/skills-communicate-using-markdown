@@ -1,5 +1,8 @@
-# Daily learning
+# Daily learning Nível 2
 Dia 24 de fevereiro de 2026
+- [ ] check out the [github blog] (https://github.blog/) for topic ideas.
+- [ ] Learn about [GitHub Pages] (https://skills.github.com/#first-day-on-github).
+- [ ] Convert my first blog into an actual webpage.
 ## Morning Planning 
 Aprender o uso da linguagem leve Markdown 
 ## Review
