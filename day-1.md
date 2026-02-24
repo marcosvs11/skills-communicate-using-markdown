@@ -1,4 +1,8 @@
 # Daily learning
-<h2> Morning Planning </h2> <h6> Aprender o uso da linguagem leve Markdonw <h6> 
-<h2> Review </h2> 
-<h6> Eu não entendi muito bem com as hastags podem substituir o uso desses comando para mudar o tamanho dos títulos, mas eu entendi o resto <h6>
+Dia 24 de fevereiro de 2026
+## Morning Planning 
+Aprender o uso da linguagem leve Markdown 
+## Review
+Eu não entendi muito bem com as hastags podem substituir o uso desses comando para mudar o tamanho dos títulos, mas eu entendi o resto.
+Atualizando: Entendi o significado tão óbvio da hastag, erro meu de não ter prestado mais atenção na lição!
+
